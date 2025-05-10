@@ -5,24 +5,22 @@ Testing some machinelearning loosely based on [approachingalmost-repository](htt
 
 ## Table of contents
 
-0. Setup
+_0. Setup
+__0.1. GitHub-Repository
+__0.2. Virtual Environment
+__0.3. Project structurev
 
-    1. New GitHub-Repository
-    2. Create new Virtual Environment
-    3. Structure project directory
-
-1. Data
-
-    0. Fetch data
+_1. Data
+__1.0. Fetch data
 
 ## 0. Setup
 
-### 0.1 New GitHub-Repository
+### 0.1 GitHub-Repository
 
 Create new repository with .gitignore and README.md file.
 Edit Markdown file in VS by pressing: ```ctrl + k``` and ```v```.
 
-### 0.2 Create new Virtual Environment
+### 0.2 Virtual Environment
 
 Set up a new Virtual Environment 'env' of a certain python version in /pyver directory:
 
@@ -36,7 +34,7 @@ Activate env with the following terminal command:
 env/Scripts/activate
 ```
 
-### 0.3 Structure project directory
+### 0.3 Project structure
 
 This project uses a directory structure suggested by [Craftwork](https://medium.com/@craftworkai/how-to-structure-a-machine-learning-project-for-optimal-mlops-efficiency-0046e15ce033) [[2]](#2). Exclude certain directories in .gitignore file.
 
