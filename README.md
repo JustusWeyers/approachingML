@@ -7,11 +7,11 @@ Testing some machinelearning loosely based on [approachingalmost-repository](htt
 
 0. Setup
 
-    0. New GitHub-Repository
+    0 New GitHub-Repository
 
-    1. Create new Virtual Environment
+    1 Create new Virtual Environment
     
-    2. Structure project directory
+    2 Structure project directory
 
 1. Fetch data
 
